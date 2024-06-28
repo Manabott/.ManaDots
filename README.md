@@ -1,4 +1,4 @@
-<div align = center><img src="https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/logo.png"><br><br>
+<div align = center><img src="https://github.com/Manabott/.ManaDots/blob/main/Repo/ManaDots.png"><br><br>
 
 &ensp;[<kbd> <br> Screenshots <br> </kbd>](#Screenshots)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
