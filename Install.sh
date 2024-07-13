@@ -1,10 +1,20 @@
-##################
-# Install script #
-##################
+#!/bin/bash
 
-################
-# NVIDIA STUFF #
-################
+clear
+
+title() {
+echo -e "  ___  ___                 ______      _         "
+echo -e "  |  \/  |                 |  _  \    | |        "
+echo -e "  | .  . | __ _ _ __   __ _| | | |___ | |_ ___   "
+echo -e "  | |\/| |/ _` | '_ \ / _` | | | / _ \| __/ __|  "
+echo -e " _| |  | | (_| | | | | (_| | |/ / (_) | |_\__ \  "
+echo -e "(_)_|  |_/\__,_|_| |_|\__,_|___/ \___/ \__|___/  "
+}                                             
+
+title
+
+echo "Updating kernel with nvidia modules..."
+echo ""
 
 # edit mkinitcpio.conf
 sudo nano /etc/mkinitcpio.conf
