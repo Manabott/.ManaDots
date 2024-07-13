@@ -26,11 +26,9 @@
 > Please see [Dependecies](#Dependecies)
 
 ```bash
-git clone --depth=1 --single-branch --branch yume https://github.com/qxb3/gruvbox.hypr
-cd gruvbox.hypr
-cp -r font/* ~/.local/share/fonts
-cp -r .config/* ~/.config
-cp -r .scripts ~/ # Optional
+git clone https://github.com/Manabott/.ManaDots
+cd .ManaDots
+./Install.sh
 # Restart your pc
 ```
 
