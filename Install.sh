@@ -50,3 +50,6 @@ cp .zsh ~/
 
 # Install Paru
 sudo pacman -S --needed base-devel && git clone https://aur.archlinux.org/paru.git && cd paru && makepkg -si
+
+# Copy .face.icon to root
+cp .face.icon ~/
