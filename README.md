@@ -9,7 +9,7 @@
 ## Screenshots
 
 <p align="center">
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/Repo/1.png" />
+  <img align="center" width="49%" src="https://github.com/Manabott/.ManaDots/blob/main/Repo/1.png" />
   <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/Repo/2.png" />
   <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/Repo/3.png" />
   <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/Repo/4.png" />
