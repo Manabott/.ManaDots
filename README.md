@@ -39,11 +39,11 @@ cd .ManaDots
 <table><tr><td>
   <code>a</code><br><code>p</code><br><code>p</code><br><code>s</code><br></td><td><table>
   <tr><td>kitty</td><td>terminal emulator</td></tr>
-  <tr><td>dolphin</td><td>file explorer</td></tr>
-  <tr><td>thunar</td><td>another file explorer</td></tr>
+  <tr><td>nemo</td><td>file explorer</td></tr>
   <tr><td>spotify</td><td>music player</td></tr>
   <tr><td>grimblast</td><td>screenshot tool</td></tr>
   <tr><td>swappy</td><td>screenshot editor & image viewer</td></tr>
+  <tr><td>cliphist</td><td>clipboard manager for screenshot</td></tr>
   <tr><td>firefox</td><td>browser</td></tr></table>
 </td></tr></table>
 
@@ -53,7 +53,7 @@ cd .ManaDots
   <code>r</code><br><code>i</code><br><code>c</code><br><code>e</code><br></td><td><table>
   <tr><td>swww</td><td>wallpaper daemon</td></tr>
   <tr><td>swaylock</td><td>screen locker</td></tr>
-  <tr><td>ags</td><td>aylur's gtk widget</td></tr></table>
+  <tr><td>aylurs-gtk-shell</td><td>aylur's gtk widget</td></tr></table>
 </td></tr></table>
 
 <br>
@@ -61,8 +61,9 @@ cd .ManaDots
 <table><tr><td>
   <code>s</code><br><code>h</code><br><code>e</code><br><code>l</code><br><code>l</code></td><td><table>
   <tr><td>zsh</td><td>main shell</td></tr>
+  <tr><td>oh-my-zsh</td><td>zsh customization</td></tr>
   <tr><td>neovim</td><td>text editor</td></tr>
-  <tr><td>neofetch</td><td>beautiful sys info</td></tr></table>
+  <tr><td>fastfetch</td><td>beautiful sys info</td></tr></table>
 </td></tr></table>
 
 <br>
@@ -72,6 +73,7 @@ cd .ManaDots
   <tr><td>gvfs</td><td>mpris cover art caching</td></tr>
   <tr><td>gnome-bluetooth-3.0</td><td>for bluetooth</td></tr>
   <tr><td>pipwire-pulse</td><td>audio</td></tr>
+  <tr><td>pamixer</td><td>volume control</td></tr>
   <tr><td>NetworkManager</td><td>manages network</td></tr></table>
 </td></tr></table>
 
@@ -83,10 +85,10 @@ cd .ManaDots
 
 | Keys | Action |
 | :--  | :-- |
-| <kbd>Super</kbd> + <kbd>Q</kbd> | quit active/focused window
+| <kbd>Super</kbd> + <kbd>C</kbd> | quit active/focused window
 | <kbd>Alt</kbd> + <kbd>F4</kbd> | kill window using cursor
 | <kbd>Super</kbd> + <kbd>W</kbd> | toggle window on focus to float
-| <kbd>Alt</kbd> + <kbd>Enter</kbd> | toggle window on focus to fullscreen
+| <kbd>Super</kbd> + <kbd>F</kbd> | toggle window on focus to fullscreen
 | <kbd>Super</kbd> + <kbd>RightClick</kbd> | resize the window
 | <kbd>Super</kbd> + <kbd>LeftClick</kbd> | change the window position
 | <kbd>Alt</kbd> + <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd>| switch the focus around active windows
@@ -98,9 +100,9 @@ cd .ManaDots
 
 | Keys | Action |
 | :--  | :-- |
-| <kbd>Super</kbd> + <kbd>T</kbd> | launch kitty terminal
-| <kbd>Super</kbd> + <kbd>E</kbd> | launch dolphin file explorer
-| <kbd>Super</kbd> + <kbd>F</kbd> | launch firefox
+| <kbd>Super</kbd> + <kbd>Enter</kbd> | launch kitty terminal
+| <kbd>Super</kbd> + <kbd>E</kbd> | launch nemo file explorer
+| <kbd>Super</kbd> + <kbd>B</kbd> | launch firefox
 | <kbd>Super</kbd> + <kbd>D</kbd> | launch vencord (replace it with normal discord if u want)
 
 #### Sidebar
