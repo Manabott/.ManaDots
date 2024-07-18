@@ -9,10 +9,10 @@
 ## Screenshots
 
 <p align="center">
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/repo/1.png" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/repo/2.png" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/repo/3.png" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/repo/4.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/Repo/1.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/Repo/2.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/Repo/3.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/Manabott/.ManaDots/Repo/4.png" />
 </p>
 
 <br>
