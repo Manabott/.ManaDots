@@ -9,10 +9,10 @@
 ## Screenshots
 
 <p align="center">
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/1.png" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/2.png" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/3.png" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/4.png" />
+  <img align="center" width="49%" src="https://github.com/Manabott/.ManaDots/blob/main/Repo/1.png" />
+  <img align="center" width="49%" src="https://github.com/Manabott/.ManaDots/blob/main/Repo/2.png" />
+  <img align="center" width="49%" src="https://github.com/Manabott/.ManaDots/blob/main/Repo/3.png" />
+  <img align="center" width="49%" src="https://github.com/Manabott/.ManaDots/blob/main/Repo/4.png" />
 </p>
 
 <br>
