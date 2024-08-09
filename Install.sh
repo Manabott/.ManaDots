@@ -53,3 +53,4 @@ sudo pacman -S --needed base-devel && git clone https://aur.archlinux.org/paru.g
 
 # Copy .face.icon to root
 cp .face.icon ~/
+

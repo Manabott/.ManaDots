@@ -60,4 +60,4 @@ export PATH=./node_modules/.bin:./vendor/bin:$PATH
 export PATH=$HOME/.scripts:$PATH
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-source ~/.config/fish/env.zsh
+source ~/.config/zsh/env.zsh
