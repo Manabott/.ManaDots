@@ -38,7 +38,7 @@ makepkg -si
 cd ..
 
 # Install dependencies
-paru -S git nano kitty nemo spotify grimblast swappy firefox brave swww swaylock aylurs-gtk-shell zsh neovim fastfetch gvfs gnome-bluetooth-3.0 pipewire-pulse NetworkManager nwg-look timeshift dunst cava waybar hyprland-git vscode transmission ranger ttf-material-icons-git ttf-iosevka ttf-jetbrains-mono-git brightnessctl qt5ct qt6ct gruvbox-plus-icon-theme-git upscaler gimp cliphist pamixer virt-manager qemu-full ark obsidian-git vesktop
+paru -S git nano kitty nemo spotify grimblast swappy firefox brave swww swaylock aylurs-gtk-shell zsh neovim fastfetch gvfs gnome-bluetooth-3.0 pipewire-pulse NetworkManager nwg-look timeshift dunst cava waybar hyprland-git vscode transmission ranger ttf-material-icons-git ttf-iosevka ttf-jetbrains-mono-git brightnessctl qt5ct qt6ct gruvbox-plus-icon-theme-git upscaler gimp cliphist pamixer virt-manager qemu-full ark obsidian-git vesktop balena-etcher
 
 
 # Copy dotfiles
